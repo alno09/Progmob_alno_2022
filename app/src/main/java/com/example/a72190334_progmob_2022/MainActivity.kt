@@ -35,6 +35,7 @@ class MainActivity : AppCompatActivity() {
             var intent = Intent(this@MainActivity,
                 HelpActivity::class.java)
             startActivity(intent)
+            finish()
         })
 
         btnHelp.setOnClickListener(View.OnClickListener { view ->
@@ -45,6 +46,7 @@ class MainActivity : AppCompatActivity() {
             var intent = Intent(this@MainActivity,HelpActivity::class.java)
             intent.putExtras(bundle)
             startActivity(intent)
+            finish()
         })
     }
 }
