@@ -2,7 +2,7 @@
     <string name="app_name">72190334_progmob_2022</string>
     <string name="text_progmob_main">Halo Progmob</string>
     <string name="title_activity_dutatani">DUTATANI</string>
-    <string name="title_home">Home</string>
+    <string name="title_home">DUTATANI</string>
     <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="title_notifications">Notification</string>
 </resources>
